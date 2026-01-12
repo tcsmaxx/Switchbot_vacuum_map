@@ -1,0 +1,1 @@
+# Switchbot_vacuum_map
